@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1c66f889-6b69-a93f-bca7-ef1541600adc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Nature of Constructionist Learning",
+  "course_description": "This course examines the philosophical and theoretical foundations of constructionism as a paradigm for formulating and evaluating new theories for learning and approaches to education. One of the goals of this course is to help new learning researchers situate their work within the constructionist framework through readings and projects that will focus on the rich interplay between the process of knowledge construction and the development and co-evolution of ideas, learners, tools, and contexts.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.962",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
